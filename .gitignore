@@ -1,0 +1,17 @@
+# dependencies
+/node_modules
+
+# parcel build output
+/dist
+.parcel-cache
+
+# system files
+.DS_Store
+
+# logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# environment files (if any)
+.env

@@ -1,0 +1,22 @@
+{
+  "name": "react-ignition",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-router-dom": "^6.22.3"
+  },
+  "devDependencies": {
+    "babel-plugin-transform-remove-console": "^6.9.4",
+    "parcel": "^2.9.3"
+  },
+  "browserslist": [
+    "last 2 versions"
+  ]
+}

@@ -1,0 +1,92 @@
+export const restaurantList = [
+  {
+    name: "Burger Palace",
+    image: "https://static.vecteezy.com/system/resources/previews/036/334/179/non_2x/ai-generated-juicy-burger-with-fries-on-transparent-png.png",
+    cuisines: ["Burger", "American"],
+    rating: "4.6",
+  },
+  {
+    name: "Pizza Corner",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFA5_4FgVVOyaVn5kISzuVmrYFlGVmGp2AZQ&s",
+    cuisines: ["Pizza", "Italian"],
+    rating: "4.3",
+  },
+  {
+    name: "Sushi Place",
+    image: "https://static.vecteezy.com/system/resources/previews/049/159/934/non_2x/japanese-food-sushi-isolated-transparent-png.png",
+    cuisines: ["Sushi", "Japanese"],
+    rating: "4.5",
+  },
+  {
+    name: "Fried Chicken Co.",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhJDArzWyQ1KQdl1lF6xi7Ru0hC7f8gPbYsw&s",
+    cuisines: ["Fried", "Fast Food"],
+    rating: "4.2",
+  },
+  {
+    name: "Coffee Point",
+    image: "https://static.vecteezy.com/system/resources/thumbnails/023/742/327/small_2x/latte-coffee-isolated-illustration-ai-generative-free-png.png",
+    cuisines: ["Coffee", "Bakery"],
+    rating: "4.8",
+  },
+  {
+    name: "Healthy Wraps",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKWILpIIFFfENE4fUvPaAUqxD61ycWZzeKVw&s",
+    cuisines: ["Wrap", "Healthy"],
+    rating: "4.4",
+  },
+    {
+    name: "Burger Palace",
+    image: "https://static.vecteezy.com/system/resources/previews/036/334/179/non_2x/ai-generated-juicy-burger-with-fries-on-transparent-png.png",
+    cuisines: ["Burger", "American"],
+    rating: "4.6",
+  },
+  {
+    name: "Pizza Corner",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFA5_4FgVVOyaVn5kISzuVmrYFlGVmGp2AZQ&s",
+    cuisines: ["Pizza", "Italian"],
+    rating: "4.3",
+  },
+  {
+    name: "Sushi Place",
+    image: "https://static.vecteezy.com/system/resources/previews/049/159/934/non_2x/japanese-food-sushi-isolated-transparent-png.png",
+    cuisines: ["Sushi", "Japanese"],
+    rating: "4.5",
+  },
+  {
+    name: "Fried Chicken Co.",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhJDArzWyQ1KQdl1lF6xi7Ru0hC7f8gPbYsw&s",
+    cuisines: ["Fried", "Fast Food"],
+    rating: "4.2",
+  },
+  {
+    name: "Coffee Point",
+    image: "https://static.vecteezy.com/system/resources/thumbnails/023/742/327/small_2x/latte-coffee-isolated-illustration-ai-generative-free-png.png",
+    cuisines: ["Coffee", "Bakery"],
+    rating: "4.8",
+  },
+  {
+    name: "Healthy Wraps",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKWILpIIFFfENE4fUvPaAUqxD61ycWZzeKVw&s",
+    cuisines: ["Wrap", "Healthy"],
+    rating: "4.4",
+  },
+   {
+    name: "Fried Chicken Co.",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhJDArzWyQ1KQdl1lF6xi7Ru0hC7f8gPbYsw&s",
+    cuisines: ["Fried", "Fast Food"],
+    rating: "4.2",
+  },
+  {
+    name: "Coffee Point",
+    image: "https://static.vecteezy.com/system/resources/thumbnails/023/742/327/small_2x/latte-coffee-isolated-illustration-ai-generative-free-png.png",
+    cuisines: ["Coffee", "Bakery"],
+    rating: "4.8",
+  },
+  {
+    name: "Healthy Wraps",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKWILpIIFFfENE4fUvPaAUqxD61ycWZzeKVw&s",
+    cuisines: ["Wrap", "Healthy"],
+    rating: "4.4",
+  },
+];
