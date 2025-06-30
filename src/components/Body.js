@@ -21,9 +21,7 @@ const Body = () => {
      },[]);
 
     async function getRestaurants() {
-  const res = await fetch("https://run.mocky.io/v3/8f7b09a4-78d4-4a91-9602-79fbb844f531"
-
-);
+  const res = await fetch("");
   const json = await res.json();
   setRestaurants(json.restaurants);
 }
