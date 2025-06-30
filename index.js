@@ -1,13 +1,13 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
-import Headers from "./components/Header";
-import Body from "./components/Body";
-import Footer from "./components/Footer";
-import Error from "./components/Error";
+import Headers from "./src/components/Header";
+import Body from "./src/components/Body";
+import Footer from "./src/components/Footer";
+import Error from "./src/components/Error";
 import { createBrowserRouter, Outlet, RouterProvider, } from "react-router-dom";
-import About from "./components/About";
-import Contact from "./components/Contact";
-import RestaurantMenu from "./components/RestaurantMenu";
+import About from "./src/components/About";
+import Contact from "./src/components/Contact";
+import RestaurantMenu from "./src/components/RestaurantMenu";
 
 
 
